@@ -25,7 +25,7 @@ demonstration the xrpl funtionalities
 	</form>
 <h5>USDS to CBDC Remittance</h5>
 <p>USDS Amount: <input type="number" id="usdAmount"></p>
-	<p>Recipient's XRPL Address: <input type="text" id="xrplAddress"></p>
+	<p>Recipient's Address: <input type="text" id="Address"></p>
 		<button id="sendButton">Send</button>
 		<p id="status"></p>
 		<script src="app.js"></script>
