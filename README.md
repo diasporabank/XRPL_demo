@@ -17,11 +17,11 @@ demonstration the xrpl funtionalities
 		<input type="email" id="recipientEmail" name="recipientEmail" required><br><br>
 		<label for="recipientPhoneNumber">Recipient Phone Number:</label>
 		<input type="tel" id="recipientPhoneNumber" name="recipientPhoneNumber" required><br><br>
-		<label for="recipientAddress">Recipient XRP Address:</label>
+		<label for="recipientAddress">Recipient Stable Coin Address:</label>
 		<input type="text" id="recipientAddress" name="recipientAddress" required><br><br>
-		<label for="amount">Amount (XRP):</label>
+		<label for="amount">Amount (Stable Coin):</label>
 		<input type="number" id="amount" name="amount" step="0.000001" required><br><br>
-		<button type="submit">Send XRP</button>
+		<button type="submit">Send Stable Coin</button>
 	</form>
 <h5>USDS to CBDC Remittance</h5>
 <p>USDS Amount: <input type="number" id="usdAmount"></p>
