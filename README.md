@@ -23,8 +23,8 @@ demonstration the xrpl funtionalities
 		<input type="number" id="amount" name="amount" step="0.000001" required><br><br>
 		<button type="submit">Send XRP</button>
 	</form>
-<h5>CBDC to XRPL Remittance</h5>
-<p>CBDC Amount: <input type="number" id="cbdcAmount"></p>
+<h5>USDS to CBDC Remittance</h5>
+<p>USDS Amount: <input type="number" id="usdAmount"></p>
 	<p>Recipient's XRPL Address: <input type="text" id="xrplAddress"></p>
 		<button id="sendButton">Send</button>
 		<p id="status"></p>
